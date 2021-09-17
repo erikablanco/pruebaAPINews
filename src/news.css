@@ -1,0 +1,30 @@
+.news-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    height: 100%;
+    gap: 20px;
+  }
+   
+  .news-container input {
+    height: 50px;
+    width: 40%;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Verdana;
+  }
+   
+   
+  button {
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: rgb(60, 104, 75);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 16px;
+  }
+  
